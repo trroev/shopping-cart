@@ -1,4 +1,4 @@
-# MEMORY GAME
+# SHOPPING CART
 
 A React App to test your memory skills!
 
