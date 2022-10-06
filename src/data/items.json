@@ -1,44 +1,44 @@
 [
   {
     "id": 1,
-    "name": "Item 1",
-    "price": 12,
-    "imgUrl": ""
+    "name": "Allspice",
+    "price": 33,
+    "imgUrl": "/images/allspice.jpg"
   },
   {
     "id": 2,
-    "name": "Item 2",
-    "price": 6.66,
-    "imgUrl": ""
+    "name": "Black Peppercorn",
+    "price": 150,
+    "imgUrl": "/images/black-peppercorn.jpg"
   },
   {
     "id": 3,
-    "name": "Item 3",
-    "price": 99.99,
-    "imgUrl": ""
+    "name": "Cardamom",
+    "price": 33,
+    "imgUrl": "/images/cardamom.jpg"
   },
   {
     "id": 4,
-    "name": "Item 4",
-    "price": 49,
-    "imgUrl": ""
+    "name": "Cinnamon",
+    "price": 9.99,
+    "imgUrl": "/images/cinnamon.jpg"
   },
   {
     "id": 5,
-    "name": "Item 5",
-    "price": 150,
-    "imgUrl": ""
+    "name": " Clove",
+    "price": 15.55,
+    "imgUrl": "/images/clove.jpg"
   },
   {
     "id": 6,
-    "name": "Item 6",
+    "name": "Star Anise",
     "price": 499.68,
-    "imgUrl": ""
+    "imgUrl": "/images/star-anise.jpg"
   },
   {
     "id": 7,
-    "name": "Item 7",
+    "name": "Turmeric",
     "price": 24.5,
-    "imgUrl": ""
+    "imgUrl": "/images/turmeric.jpg"
   }
 ]

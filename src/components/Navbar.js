@@ -31,8 +31,8 @@ export const Navbar = () => {
               className="rounded-circle bg-danger d-flex justify-content-center align-items-center"
               style={{
                 color: "white",
-                width: "1.5rem",
-                height: "1.5rem",
+                width: "1.3rem",
+                height: "1.3rem",
                 position: "absolute",
                 bottom: 0,
                 right: 0,
