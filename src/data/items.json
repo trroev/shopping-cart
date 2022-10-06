@@ -1,44 +1,44 @@
 [
   {
     "id": 1,
-    "name": "Greed",
+    "name": "Item 1",
     "price": 12,
     "imgUrl": ""
   },
   {
-    "id": 1,
-    "name": "",
-    "price": 12,
+    "id": 2,
+    "name": "Item 2",
+    "price": 6.66,
     "imgUrl": ""
   },
   {
-    "id": 1,
-    "name": "",
-    "price": 12,
+    "id": 3,
+    "name": "Item 3",
+    "price": 99.99,
     "imgUrl": ""
   },
   {
-    "id": 1,
-    "name": "",
-    "price": 12,
+    "id": 4,
+    "name": "Item 4",
+    "price": 49,
     "imgUrl": ""
   },
   {
-    "id": 1,
-    "name": "",
-    "price": 12,
+    "id": 5,
+    "name": "Item 5",
+    "price": 150,
     "imgUrl": ""
   },
   {
-    "id": 1,
-    "name": "",
-    "price": 12,
+    "id": 6,
+    "name": "Item 6",
+    "price": 499.68,
     "imgUrl": ""
   },
   {
-    "id": 1,
-    "name": "",
-    "price": 12,
+    "id": 7,
+    "name": "Item 7",
+    "price": 24.5,
     "imgUrl": ""
   }
 ]
