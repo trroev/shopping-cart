@@ -8,6 +8,12 @@ export const Navbar = () => {
   return (
     <NavbarBs sticky="top" className="bg-white shadow-sm mb-3">
       <Container>
+        <NavbarBs.Brand
+          href="/"
+          style={{ fontSize: "2.25rem", fontWeight: "500", color: "orange" }}
+        >
+          SpiceHub
+        </NavbarBs.Brand>
         <Nav className="me-auto">
           <Nav.Link to="/" as={NavLink}>
             Home
@@ -23,13 +29,14 @@ export const Navbar = () => {
           <Button
             onClick={openCart}
             style={{ width: "3rem", height: "3rem", position: "relative" }}
-            variant="outline-primary"
+            variant="outline-secondary"
             className="rounded-circle"
           >
             <FaShoppingCart />
             <div
-              className="rounded-circle bg-danger d-flex justify-content-center align-items-center"
+              className="rounded-circle d-flex justify-content-center align-items-center"
               style={{
+                backgroundColor: "orange",
                 color: "white",
                 width: "1.3rem",
                 height: "1.3rem",

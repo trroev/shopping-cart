@@ -27,7 +27,11 @@ export const ShopItem = ({ id, name, price, imgUrl }) => {
         </Card.Title>
         <div className="mt-auto">
           {quantity === 0 ? (
-            <Button className="w-100" onClick={() => increaseCartQuantity(id)}>
+            <Button
+              className="w-100"
+              variant="secondary"
+              onClick={() => increaseCartQuantity(id)}
+            >
               + Add to Cart
             </Button>
           ) : (
@@ -39,14 +43,24 @@ export const ShopItem = ({ id, name, price, imgUrl }) => {
                 className="d-flex align-items-center justify-content-center"
                 style={{ gap: "0.5rem" }}
               >
-                <Button onClick={() => decreaseCartQuantity(id)}>-</Button>
+                <Button
+                  variant="secondary"
+                  onClick={() => decreaseCartQuantity(id)}
+                >
+                  -
+                </Button>
                 <div>
                   <span className="fs-3">{quantity}</span> in cart
                 </div>
-                <Button onClick={() => increaseCartQuantity(id)}>+</Button>
+                <Button
+                  variant="secondary"
+                  onClick={() => increaseCartQuantity(id)}
+                >
+                  +
+                </Button>
               </div>
               <Button
-                variant="danger"
+                style={{ backgroundColor: "orange", border: "orange" }}
                 size="small"
                 onClick={() => removeFromCart(id)}
               >
