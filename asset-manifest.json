@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.c59cc657.css",
+    "main.js": "/shopping-cart/static/js/main.596f7ada.js",
+    "index.html": "/shopping-cart/index.html",
+    "main.c59cc657.css.map": "/shopping-cart/static/css/main.c59cc657.css.map",
+    "main.596f7ada.js.map": "/shopping-cart/static/js/main.596f7ada.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c59cc657.css",
+    "static/js/main.596f7ada.js"
+  ]
+}
