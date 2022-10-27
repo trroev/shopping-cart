@@ -17,13 +17,14 @@ export const ShopItem = ({ id, name, price, imgUrl }) => {
       <Card.Img
         variant="top"
         src={imgUrl}
+        alt="card image"
         height="200px"
         style={{ objectFit: "cover" }}
       />
       <Card.Body className="d-flex flex-column">
         <Card.Title className="d-flex justify-content-between align-itmes-baseline mb-4">
           <span className="fs-2">{name}</span>
-          <span className="ms-2 text-muted">{formatCurrency(price)}</span>
+          <span className="ms-2 text-muted">{formatCurrency(price)}/lb</span>
         </Card.Title>
         <div className="mt-auto">
           {quantity === 0 ? (

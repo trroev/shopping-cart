@@ -9,10 +9,11 @@ export const Navbar = () => {
     <NavbarBs sticky="top" className="bg-white shadow-sm mb-3">
       <Container>
         <NavbarBs.Brand
-          href="/"
           style={{ fontSize: "2.25rem", fontWeight: "500", color: "orange" }}
         >
-          SpiceHub
+          <Nav.Link to="/" as={NavLink}>
+            SpiceHub
+          </Nav.Link>
         </NavbarBs.Brand>
         <Nav className="me-auto">
           <Nav.Link to="/" as={NavLink}>

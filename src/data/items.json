@@ -3,42 +3,42 @@
     "id": 1,
     "name": "Allspice",
     "price": 33,
-    "imgUrl": "/images/allspice.jpg"
+    "imgUrl": "https://images.unsplash.com/photo-1612549224595-d7dbe14c1033?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
   },
   {
     "id": 2,
     "name": "Black Peppercorn",
     "price": 150,
-    "imgUrl": "/images/black-peppercorn.jpg"
+    "imgUrl": "https://images.unsplash.com/photo-1612708034948-466dcc56ebde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
   },
   {
     "id": 3,
     "name": "Cardamom",
     "price": 33,
-    "imgUrl": "/images/cardamom.jpg"
+    "imgUrl": "https://images.unsplash.com/photo-1642255521852-7e7c742ac58f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
   },
   {
     "id": 4,
     "name": "Cinnamon",
     "price": 9.99,
-    "imgUrl": "/images/cinnamon.jpg"
+    "imgUrl": "https://images.unsplash.com/photo-1607430866111-3f2b5804f850?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80"
   },
   {
     "id": 5,
     "name": " Clove",
     "price": 15.55,
-    "imgUrl": "/images/clove.jpg"
+    "imgUrl": "https://images.unsplash.com/photo-1604002192780-0f2c815fc29e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
   },
   {
     "id": 6,
     "name": "Star Anise",
     "price": 499.68,
-    "imgUrl": "/images/star-anise.jpg"
+    "imgUrl": "https://images.unsplash.com/photo-1638779024471-abb09390e23a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80"
   },
   {
     "id": 7,
     "name": "Turmeric",
     "price": 24.5,
-    "imgUrl": "/images/turmeric.jpg"
+    "imgUrl": "https://images.unsplash.com/photo-1615485500834-bc10199bc727?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
   }
 ]
